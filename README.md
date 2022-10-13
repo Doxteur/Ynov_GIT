@@ -12,3 +12,4 @@ Feature1.0.01 3
 Test 1
 Bug 1
 Bug 2
+Bug 3
